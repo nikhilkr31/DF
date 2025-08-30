@@ -1,0 +1,145 @@
+Product ID,Product Description,Product Category,Customer Name,Customer Class,Date,Demand
+12345,Blue Pens,Writing Tools,ABC Corp,Premium,2020-01-01,120
+12345,Blue Pens,Writing Tools,ABC Corp,Premium,2020-02-01,125
+12345,Blue Pens,Writing Tools,ABC Corp,Premium,2020-03-01,130
+12345,Blue Pens,Writing Tools,ABC Corp,Premium,2020-04-01,135
+12345,Blue Pens,Writing Tools,ABC Corp,Premium,2020-05-01,140
+12345,Blue Pens,Writing Tools,ABC Corp,Premium,2020-06-01,145
+12345,Blue Pens,Writing Tools,ABC Corp,Premium,2020-07-01,150
+12345,Blue Pens,Writing Tools,ABC Corp,Premium,2020-08-01,155
+12345,Blue Pens,Writing Tools,ABC Corp,Premium,2020-09-01,160
+12345,Blue Pens,Writing Tools,ABC Corp,Premium,2020-10-01,165
+12345,Blue Pens,Writing Tools,ABC Corp,Premium,2020-11-01,170
+12345,Blue Pens,Writing Tools,ABC Corp,Premium,2020-12-01,175
+12345,Blue Pens,Writing Tools,ABC Corp,Premium,2021-01-01,180
+12345,Blue Pens,Writing Tools,ABC Corp,Premium,2021-02-01,185
+12345,Blue Pens,Writing Tools,ABC Corp,Premium,2021-03-01,190
+12345,Blue Pens,Writing Tools,ABC Corp,Premium,2021-04-01,195
+12345,Blue Pens,Writing Tools,ABC Corp,Premium,2021-05-01,200
+12345,Blue Pens,Writing Tools,ABC Corp,Premium,2021-06-01,205
+12345,Blue Pens,Writing Tools,ABC Corp,Premium,2021-07-01,210
+12345,Blue Pens,Writing Tools,ABC Corp,Premium,2021-08-01,215
+12345,Blue Pens,Writing Tools,ABC Corp,Premium,2021-09-01,220
+12345,Blue Pens,Writing Tools,ABC Corp,Premium,2021-10-01,225
+12345,Blue Pens,Writing Tools,ABC Corp,Premium,2021-11-01,230
+12345,Blue Pens,Writing Tools,ABC Corp,Premium,2021-12-01,235
+12345,Blue Pens,Writing Tools,ABC Corp,Premium,2022-01-01,240
+12345,Blue Pens,Writing Tools,ABC Corp,Premium,2022-02-01,245
+12345,Blue Pens,Writing Tools,ABC Corp,Premium,2022-03-01,250
+12345,Blue Pens,Writing Tools,ABC Corp,Premium,2022-04-01,255
+12345,Blue Pens,Writing Tools,ABC Corp,Premium,2022-05-01,260
+12345,Blue Pens,Writing Tools,ABC Corp,Premium,2022-06-01,265
+12345,Blue Pens,Writing Tools,ABC Corp,Premium,2022-07-01,270
+12345,Blue Pens,Writing Tools,ABC Corp,Premium,2022-08-01,275
+12345,Blue Pens,Writing Tools,ABC Corp,Premium,2022-09-01,280
+12345,Blue Pens,Writing Tools,ABC Corp,Premium,2022-10-01,285
+12345,Blue Pens,Writing Tools,ABC Corp,Premium,2022-11-01,290
+12345,Blue Pens,Writing Tools,ABC Corp,Premium,2022-12-01,295
+12345,Blue Pens,Writing Tools,ABC Corp,Premium,2023-01-01,300
+12345,Blue Pens,Writing Tools,ABC Corp,Premium,2023-02-01,305
+12345,Blue Pens,Writing Tools,ABC Corp,Premium,2023-03-01,310
+12345,Blue Pens,Writing Tools,ABC Corp,Premium,2023-04-01,315
+12345,Blue Pens,Writing Tools,ABC Corp,Premium,2023-05-01,320
+12345,Blue Pens,Writing Tools,ABC Corp,Premium,2023-06-01,325
+12345,Blue Pens,Writing Tools,ABC Corp,Premium,2023-07-01,330
+12345,Blue Pens,Writing Tools,ABC Corp,Premium,2023-08-01,335
+12345,Blue Pens,Writing Tools,ABC Corp,Premium,2023-09-01,340
+12345,Blue Pens,Writing Tools,ABC Corp,Premium,2023-10-01,345
+12345,Blue Pens,Writing Tools,ABC Corp,Premium,2023-11-01,350
+12345,Blue Pens,Writing Tools,ABC Corp,Premium,2023-12-01,355
+67890,Notebooks,Paper Products,XYZ Inc,Standard,2020-01-01,100
+67890,Notebooks,Paper Products,XYZ Inc,Standard,2020-02-01,105
+67890,Notebooks,Paper Products,XYZ Inc,Standard,2020-03-01,110
+67890,Notebooks,Paper Products,XYZ Inc,Standard,2020-04-01,115
+67890,Notebooks,Paper Products,XYZ Inc,Standard,2020-05-01,120
+67890,Notebooks,Paper Products,XYZ Inc,Standard,2020-06-01,125
+67890,Notebooks,Paper Products,XYZ Inc,Standard,2020-07-01,130
+67890,Notebooks,Paper Products,XYZ Inc,Standard,2020-08-01,135
+67890,Notebooks,Paper Products,XYZ Inc,Standard,2020-09-01,140
+67890,Notebooks,Paper Products,XYZ Inc,Standard,2020-10-01,145
+67890,Notebooks,Paper Products,XYZ Inc,Standard,2020-11-01,150
+67890,Notebooks,Paper Products,XYZ Inc,Standard,2020-12-01,155
+67890,Notebooks,Paper Products,XYZ Inc,Standard,2021-01-01,160
+67890,Notebooks,Paper Products,XYZ Inc,Standard,2021-02-01,165
+67890,Notebooks,Paper Products,XYZ Inc,Standard,2021-03-01,170
+67890,Notebooks,Paper Products,XYZ Inc,Standard,2021-04-01,175
+67890,Notebooks,Paper Products,XYZ Inc,Standard,2021-05-01,180
+67890,Notebooks,Paper Products,XYZ Inc,Standard,2021-06-01,185
+67890,Notebooks,Paper Products,XYZ Inc,Standard,2021-07-01,190
+67890,Notebooks,Paper Products,XYZ Inc,Standard,2021-08-01,195
+67890,Notebooks,Paper Products,XYZ Inc,Standard,2021-09-01,200
+67890,Notebooks,Paper Products,XYZ Inc,Standard,2021-10-01,205
+67890,Notebooks,Paper Products,XYZ Inc,Standard,2021-11-01,210
+67890,Notebooks,Paper Products,XYZ Inc,Standard,2021-12-01,215
+67890,Notebooks,Paper Products,XYZ Inc,Standard,2022-01-01,220
+67890,Notebooks,Paper Products,XYZ Inc,Standard,2022-02-01,225
+67890,Notebooks,Paper Products,XYZ Inc,Standard,2022-03-01,230
+67890,Notebooks,Paper Products,XYZ Inc,Standard,2022-04-01,235
+67890,Notebooks,Paper Products,XYZ Inc,Standard,2022-05-01,240
+67890,Notebooks,Paper Products,XYZ Inc,Standard,2022-06-01,245
+67890,Notebooks,Paper Products,XYZ Inc,Standard,2022-07-01,250
+67890,Notebooks,Paper Products,XYZ Inc,Standard,2022-08-01,255
+67890,Notebooks,Paper Products,XYZ Inc,Standard,2022-09-01,260
+67890,Notebooks,Paper Products,XYZ Inc,Standard,2022-10-01,265
+67890,Notebooks,Paper Products,XYZ Inc,Standard,2022-11-01,270
+67890,Notebooks,Paper Products,XYZ Inc,Standard,2022-12-01,275
+67890,Notebooks,Paper Products,XYZ Inc,Standard,2023-01-01,280
+67890,Notebooks,Paper Products,XYZ Inc,Standard,2023-02-01,285
+67890,Notebooks,Paper Products,XYZ Inc,Standard,2023-03-01,290
+67890,Notebooks,Paper Products,XYZ Inc,Standard,2023-04-01,295
+67890,Notebooks,Paper Products,XYZ Inc,Standard,2023-05-01,300
+67890,Notebooks,Paper Products,XYZ Inc,Standard,2023-06-01,305
+67890,Notebooks,Paper Products,XYZ Inc,Standard,2023-07-01,310
+67890,Notebooks,Paper Products,XYZ Inc,Standard,2023-08-01,315
+67890,Notebooks,Paper Products,XYZ Inc,Standard,2023-09-01,320
+67890,Notebooks,Paper Products,XYZ Inc,Standard,2023-10-01,325
+67890,Notebooks,Paper Products,XYZ Inc,Standard,2023-11-01,330
+67890,Notebooks,Paper Products,XYZ Inc,Standard,2023-12-01,335
+23456,Staplers,Office Equipment,Global Tech,Premium,2020-01-01,80
+23456,Staplers,Office Equipment,Global Tech,Premium,2020-02-01,85
+23456,Staplers,Office Equipment,Global Tech,Premium,2020-03-01,90
+23456,Staplers,Office Equipment,Global Tech,Premium,2020-04-01,95
+23456,Staplers,Office Equipment,Global Tech,Premium,2020-05-01,100
+23456,Staplers,Office Equipment,Global Tech,Premium,2020-06-01,105
+23456,Staplers,Office Equipment,Global Tech,Premium,2020-07-01,110
+23456,Staplers,Office Equipment,Global Tech,Premium,2020-08-01,115
+23456,Staplers,Office Equipment,Global Tech,Premium,2020-09-01,120
+23456,Staplers,Office Equipment,Global Tech,Premium,2020-10-01,125
+23456,Staplers,Office Equipment,Global Tech,Premium,2020-11-01,130
+23456,Staplers,Office Equipment,Global Tech,Premium,2020-12-01,135
+23456,Staplers,Office Equipment,Global Tech,Premium,2021-01-01,140
+23456,Staplers,Office Equipment,Global Tech,Premium,2021-02-01,145
+23456,Staplers,Office Equipment,Global Tech,Premium,2021-03-01,150
+23456,Staplers,Office Equipment,Global Tech,Premium,2021-04-01,155
+23456,Staplers,Office Equipment,Global Tech,Premium,2021-05-01,160
+23456,Staplers,Office Equipment,Global Tech,Premium,2021-06-01,165
+23456,Staplers,Office Equipment,Global Tech,Premium,2021-07-01,170
+23456,Staplers,Office Equipment,Global Tech,Premium,2021-08-01,175
+23456,Staplers,Office Equipment,Global Tech,Premium,2021-09-01,180
+23456,Staplers,Office Equipment,Global Tech,Premium,2021-10-01,185
+23456,Staplers,Office Equipment,Global Tech,Premium,2021-11-01,190
+23456,Staplers,Office Equipment,Global Tech,Premium,2021-12-01,195
+23456,Staplers,Office Equipment,Global Tech,Premium,2022-01-01,200
+23456,Staplers,Office Equipment,Global Tech,Premium,2022-02-01,205
+23456,Staplers,Office Equipment,Global Tech,Premium,2022-03-01,210
+23456,Staplers,Office Equipment,Global Tech,Premium,2022-04-01,215
+23456,Staplers,Office Equipment,Global Tech,Premium,2022-05-01,220
+23456,Staplers,Office Equipment,Global Tech,Premium,2022-06-01,225
+23456,Staplers,Office Equipment,Global Tech,Premium,2022-07-01,230
+23456,Staplers,Office Equipment,Global Tech,Premium,2022-08-01,235
+23456,Staplers,Office Equipment,Global Tech,Premium,2022-09-01,240
+23456,Staplers,Office Equipment,Global Tech,Premium,2022-10-01,245
+23456,Staplers,Office Equipment,Global Tech,Premium,2022-11-01,250
+23456,Staplers,Office Equipment,Global Tech,Premium,2022-12-01,255
+23456,Staplers,Office Equipment,Global Tech,Premium,2023-01-01,260
+23456,Staplers,Office Equipment,Global Tech,Premium,2023-02-01,265
+23456,Staplers,Office Equipment,Global Tech,Premium,2023-03-01,270
+23456,Staplers,Office Equipment,Global Tech,Premium,2023-04-01,275
+23456,Staplers,Office Equipment,Global Tech,Premium,2023-05-01,280
+23456,Staplers,Office Equipment,Global Tech,Premium,2023-06-01,285
+23456,Staplers,Office Equipment,Global Tech,Premium,2023-07-01,290
+23456,Staplers,Office Equipment,Global Tech,Premium,2023-08-01,295
+23456,Staplers,Office Equipment,Global Tech,Premium,2023-09-01,300
+23456,Staplers,Office Equipment,Global Tech,Premium,2023-10-01,305
+23456,Staplers,Office Equipment,Global Tech,Premium,2023-11-01,310
+23456,Staplers,Office Equipment,Global Tech,Premium,2023-12-01,315
